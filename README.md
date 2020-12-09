@@ -31,4 +31,30 @@
         status  
         decs  
         created_at  
-        
+   ### * 红包商品信息  
+           id  
+           envelope_no  
+           envelope_type 
+           username    
+           user_id  
+           blessing 
+           amount  
+           amount_one
+           quanity 
+           remain_amount  
+           remain_quantity  
+           expired_at  
+           status 
+           order_type  
+           pay_status
+   ### * 红包订单详情  
+              id  
+              item_no  
+              envelope_no 
+              recv_username    
+              recv_user_id  
+              amount  
+              quanity 
+              remain_amount  
+              account_no
+              pay_status
