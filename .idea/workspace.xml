@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a31cc66-e75d-4347-a935-598e3af668e9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/double.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/double-average.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dao/demo.go" beforeDir="false" afterPath="$PROJECT_DIR$/dao/demo.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +42,16 @@
     <property name="go.sdk.automatically.set" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Go Build.go build HongBao/test">
+    <configuration name="go build HongBao/test" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="HongBao" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/test/double-average.go" />
+      <package value="HongBao/test" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="HongBao" />
       <working_directory value="$PROJECT_DIR$" />
@@ -50,6 +62,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build HongBao/test" />
         <item itemvalue="Go Build.go build main.go" />
       </list>
     </recent_temporary>
@@ -85,22 +98,26 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="303" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1607529132101" />
-    <state width="1398" height="240" key="GridCell.Tab.0.bottom" timestamp="1607529081218">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="240" key="GridCell.Tab.0.bottom" timestamp="1607577982252">
+      <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state width="1398" height="240" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1607529081218" />
-    <state width="1398" height="240" key="GridCell.Tab.0.center" timestamp="1607529081216">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="240" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1607577982252" />
+    <state width="1398" height="240" key="GridCell.Tab.0.center" timestamp="1607577982248">
+      <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state width="1398" height="240" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1607529081216" />
-    <state width="1398" height="240" key="GridCell.Tab.0.left" timestamp="1607529081215">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="240" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1607577982248" />
+    <state width="1398" height="240" key="GridCell.Tab.0.left" timestamp="1607577982246">
+      <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state width="1398" height="240" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1607529081215" />
-    <state width="1398" height="240" key="GridCell.Tab.0.right" timestamp="1607529081217">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="240" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1607577982246" />
+    <state width="1398" height="240" key="GridCell.Tab.0.right" timestamp="1607577982251">
+      <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state width="1398" height="240" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1607529081217" />
+    <state width="1398" height="240" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1607577982251" />
     <state x="320" y="183" key="Vcs.Push.Dialog.v2" timestamp="1607529038923">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -109,5 +126,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="519" y="364" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1607528914122" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1607876059843">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1607876059843" />
   </component>
 </project>

@@ -2,6 +2,6 @@ package dao
 
 import "fmt"
 
-func test ()  {
+func test() {
 	fmt.Println("test......")
 }
