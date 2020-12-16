@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a31cc66-e75d-4347-a935-598e3af668e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/algo/double.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/double-average.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dao/demo.go" beforeDir="false" afterPath="$PROJECT_DIR$/dao/demo.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +19,11 @@
   </component>
   <component name="GOROOT" path="/usr/local/go" />
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="c2a197b2306187564b1dcbb962d27d1c0a92662f" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1lQUIcuifi0s2MmByxPksbzNIjw" />
@@ -62,8 +64,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build main.go" />
         <item itemvalue="Go Build.go build HongBao/test" />
         <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Build.go build HongBao/test" />
+        <item itemvalue="Go Build.go build HongBao/test" />
       </list>
     </recent_temporary>
   </component>
@@ -98,37 +103,50 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="303" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1607529132101" />
-    <state width="1398" height="240" key="GridCell.Tab.0.bottom" timestamp="1607577982252">
+    <state x="100" y="128" width="1240" height="672" key="DiffContextDialog" timestamp="1608006105246">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
+    <state x="100" y="128" width="1240" height="672" key="DiffContextDialog/0.25.1440.875/1440.25.1920.1055@0.25.1440.875" timestamp="1608006105246" />
+    <state width="1398" height="240" key="GridCell.Tab.0.bottom" timestamp="1608044103906">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="240" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1607877063134" />
     <state width="1398" height="240" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1607529081218" />
+    <state width="1398" height="240" key="GridCell.Tab.0.bottom/0.25.1440.875/1440.25.1920.1055@0.25.1440.875" timestamp="1608044103906" />
     <state width="1398" height="240" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1607577982252" />
-    <state width="1398" height="240" key="GridCell.Tab.0.center" timestamp="1607577982248">
+    <state width="1398" height="240" key="GridCell.Tab.0.center" timestamp="1608044103905">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
+    <state width="1398" height="240" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1607877063132" />
     <state width="1398" height="240" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1607529081216" />
+    <state width="1398" height="240" key="GridCell.Tab.0.center/0.25.1440.875/1440.25.1920.1055@0.25.1440.875" timestamp="1608044103905" />
     <state width="1398" height="240" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1607577982248" />
-    <state width="1398" height="240" key="GridCell.Tab.0.left" timestamp="1607577982246">
+    <state width="1398" height="240" key="GridCell.Tab.0.left" timestamp="1608044103904">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
+    <state width="1398" height="240" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1607877063131" />
     <state width="1398" height="240" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1607529081215" />
+    <state width="1398" height="240" key="GridCell.Tab.0.left/0.25.1440.875/1440.25.1920.1055@0.25.1440.875" timestamp="1608044103904" />
     <state width="1398" height="240" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1607577982246" />
-    <state width="1398" height="240" key="GridCell.Tab.0.right" timestamp="1607577982251">
+    <state width="1398" height="240" key="GridCell.Tab.0.right" timestamp="1608044103906">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
+    <state width="1398" height="240" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1607877063133" />
     <state width="1398" height="240" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1607529081217" />
+    <state width="1398" height="240" key="GridCell.Tab.0.right/0.25.1440.875/1440.25.1920.1055@0.25.1440.875" timestamp="1608044103906" />
     <state width="1398" height="240" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1607577982251" />
-    <state x="320" y="183" key="Vcs.Push.Dialog.v2" timestamp="1607529038923">
+    <state x="320" y="183" key="Vcs.Push.Dialog.v2" timestamp="1607877227802">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="320" y="183" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1607877227802" />
     <state x="320" y="183" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1607529038923" />
     <state x="519" y="364" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607528914122">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="519" y="364" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1607528914122" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1607876059843">
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1607876815559">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1607876059843" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1607876815559" />
   </component>
 </project>
